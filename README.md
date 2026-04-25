@@ -1,4 +1,4 @@
-# CustomerDesk - Advanced Customer Management System
+# CustomerDesk - Customer Management System
 
 CustomerDesk is a professional, full-stack application designed to meet and exceed the requirements of the **Software Engineer Assignment**. It provides a robust platform for managing customer data, relational links, and large-scale data imports.
 
