@@ -59,5 +59,20 @@ npm run dev
 -   **Java 8 Compatibility**: The codebase is fully optimized for Java 8, avoiding modern syntax features like `var` or `Switch Expressions` to ensure compatibility with the assignment environment.
 -   **User Experience**: Features a "Sticky Dashboard" that remembers your place (page/search) even after performing edits, providing a high-end enterprise feel.
 
+## Dashboard - Home
+<img width="1440" height="769" alt="Screenshot 2026-04-25 at 20 53 02" src="https://github.com/user-attachments/assets/098d6b57-228f-4913-9fdd-e736a591f775" />
+
+## Dashboard - Add Customer
+<img width="1163" height="753" alt="Screenshot 2026-04-25 at 20 55 20" src="https://github.com/user-attachments/assets/2c025857-8081-46ef-8cad-ced760c899ee" />
+
+## Dashboard - Edit Customer 
+<img width="1172" height="772" alt="Screenshot 2026-04-25 at 20 53 41" src="https://github.com/user-attachments/assets/95c14dc0-d641-4a18-9b1b-fa6b9e804f37" />
+
+## Login - JWT Authentication
+<img width="1163" height="753" alt="Screenshot 2026-04-25 at 20 55 29" src="https://github.com/user-attachments/assets/dea76c58-0428-4639-9be4-909d61105ce5" />
+
+## Database - Structure and Customer Table 
+<img width="1440" height="781" alt="Screenshot 2026-04-25 at 20 58 30" src="https://github.com/user-attachments/assets/ccc25fa8-8141-46c6-99e7-1fe4cc91e14b" />
+
 ---
 **Developed by Jithnuka Weerasinghe**
